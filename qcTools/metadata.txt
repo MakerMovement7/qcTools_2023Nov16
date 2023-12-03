@@ -1,0 +1,8 @@
+[general]
+name=QC Tools
+email=test@example.com
+author=USHR Auto
+description=Simple test plugin for quality control team.
+about=A very simple test plugin.
+version=0.2
+qgisMinimumVersion=3.4

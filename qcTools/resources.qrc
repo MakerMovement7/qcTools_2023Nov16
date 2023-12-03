@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/plugins/qcTools" >
+		<file>ErrorShpManager_Icon.png</file>
+		<file>FilterFeature_Icon.png</file>
+		<file>ShowRastersOnly_Icon.png</file>
+		<file>autoErrorShpManager_Icon.png</file>
+		<file>wuFinder_Icon.png</file>
+		<file>wuLidarExtents_Icon.png</file>
+		<file>WU_Seg_Sync_CSAV3_Info_Icon.png</file>
+		<file>RemoveSelection_Icon.png</file>
+		<file>ApplyStyles_Icon.png</file>
+		<file>overlapTool_Icon.png</file>
+		<file>threeDLidarViewer_Icon.png</file>
+		<file>AdminBoundaries_Icon.png</file>
+		<file>changeWu4Rus_Icon.png</file>
+		<file>PrevNext_Icon.png</file>
+		<file>PrevNext.ui</file>
+	</qresource>
+</RCC>
